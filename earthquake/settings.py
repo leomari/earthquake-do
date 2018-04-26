@@ -29,7 +29,7 @@ DEBUG = True
 #DEBUG = bool( os.environ.get('DJANGO_DEBUG', True) )
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost:8000','localhost','127.0.0.1','206.189.175.121']
 
 
 # Application definition
