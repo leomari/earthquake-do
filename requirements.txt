@@ -2,7 +2,7 @@ alabaster==0.7.10
 Babel==2.5.3
 certifi==2018.4.16
 chardet==3.0.4
-Django==2.0.2
+Django==2.2.24
 docutils==0.14
 geographiclib==1.49
 geojson==2.3.0
